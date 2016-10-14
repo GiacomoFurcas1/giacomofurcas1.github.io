@@ -25,3 +25,9 @@ firstletter{
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0fb4e7', endColorstr='#a9e4f7',GradientType=0 ); /* IE6-9 */
     font-size: 80px;
 }
+
+il{
+    font-size: 40px;
+    font-family: Italic;
+    width: 180px;
+}
