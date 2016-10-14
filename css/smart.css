@@ -1,6 +1,7 @@
 #container{
 width: 960px;
 margin: 0 auto 0 auto;  
+color: black;
 }
 h1 {
     font-size: 100px;
@@ -13,7 +14,7 @@ h1 {
 p {
     font-size: 40px;
     font-family: Italic;
-    text-align: justify;
+    text-align: center;
     width: 180px;
 }
 firstletter{
